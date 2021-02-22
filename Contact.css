@@ -1,4 +1,10 @@
-
+*{
+  margin: 0;
+  padding: 0;
+}
+.contact{
+  margin-top: 30px;
+}
   .form-check{
     background-color: rgb(236, 234, 234);
     width: 350px;
@@ -31,6 +37,15 @@
   width: 100%;
   position: relative;
   height: 120px; 
+}
+.get-heading{
+  margin-top: 20px;
+}
+.social-media{
+  margin-top: 20px;
+}
+.contect-section{
+  margin-top: 20px;
 }
 .content{
    float:right;
